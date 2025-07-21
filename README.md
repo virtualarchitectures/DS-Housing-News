@@ -11,7 +11,7 @@ This archive has been produced by capturing headlines via RSS feeds from the fol
 - [The Journal](https://www.thejournal.ie/) / [RSS](http://www.thejournal.ie/feed/)
 - [RTE News](https://www.rte.ie/news/) / [RSS](http://www.rte.ie/rss/news.xml)
 
-These RSS feeds are aggregated using the [n8n]https://n8n.io/ automation tool and filtered using the following keywords:
+These RSS feeds are aggregated using the [n8n](https://n8n.io/) automation tool and filtered using the following keywords:
 
 planning|housing|property|policy|population|buyer|landlord|rent|homes|homeless|accommodation|mortgage|apartment|vacant|vaccancy|derelict|development|building|construction
 
