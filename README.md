@@ -15,4 +15,6 @@ These RSS feeds are aggregated using the [n8n](https://n8n.io/) automation tool 
 
 planning|housing|property|policy|population|buyer|landlord|rent|homes|homeless|accommodation|mortgage|apartment|vacant|vaccancy|derelict|development|building|construction
 
-Daily data are provided in CSV and JSON formats.
+The daily data are provided in both CSV and JSON formats.
+
+NOTE: Be aware that the filtered results may include entries that do not match the filter criteria above on occasion.
