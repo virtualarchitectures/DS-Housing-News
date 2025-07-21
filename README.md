@@ -1,6 +1,6 @@
 # Data Stories Housing News
 
-An archive of Irish housing, planning and property news.
+A daily archive of Irish housing, planning and property news.
 
 This archive has been produced by capturing headlines via RSS feeds from the following Irish news outlets:
 
